@@ -13,6 +13,7 @@ systems, ROS2 autonomy, connected devices, and consumer apps.
 - [Travel Agent AI](https://andysottiaux.com/work/travel-agent-ai) - a shipped SwiftUI product for booking capture, structured itineraries, collaboration, and trip operations.
 - [Edge-AI field camera](https://andysottiaux.com/work/field-camera) - solar power, embedded inference, resilient media transport, and public operational proof.
 - [WYZECAR](https://andysottiaux.com/work/wyzecar) - a ROS2 and YOLOv8 perception-to-control robotics testbed with an ESP32 motor bridge.
+- [Desk Buddy](https://github.com/Andy-Sottiaux/desk-buddy) - a standalone ESP32-C6 AMOLED desk dashboard with eight live widgets over Wi-Fi, streaming parsers, native slide transitions, a phone setup portal, and a 3D-printed stand.
 - [ESP32 HVAC monitor](https://github.com/Andy-Sottiaux/hvac-monitor) - dual-sensor HVAC telemetry, efficiency analysis, and a mobile-first embedded dashboard.
 
 ## Current focus
